@@ -1,3 +1,6 @@
+Bernardo Moreira Guimarães Gonçalves 
+16/08/2024 - Desenvolvimento Web - 2º Período
+
 Tarefa de Exploração:
 1. Encontre as páginas web de referência de cada uma das ferramentas que foram verificadas.
 2. Discuta a utilidade de cada ferramenta e como ela se relaciona com o conteúdo do curso.
@@ -7,15 +10,19 @@ Tarefa de Exploração:
 
 *RESPOSTA:*
 
-1. https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar, Como o VsCode pode se relacionoar com o conteúdo da aula?
+1. Como o VsCode pode se relacionoar com o conteúdo da aula?
+https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
 R: O VsCode se relaciona ao(s) ponto(s): 11 e 9, pois ele é usado como uma ferramenta de programação. 11- Embora ele pode ser usado para desenvolvimento de fullstack, ele não possui todas as ferramentas
 para aperfeiçoar a utilização dele nesse quesito. 9- Ele pode ser utilizado para programar em HTML, CSS e JavaScript e pode ser usado para análise de documentações nessas linguagens de programação.
 
-2. https://sqlitebrowser.org/, Como o DB Browser for SQLite pode se relacionoar com o conteúdo da aula?
+2. Como o DB Browser for SQLite pode se relacionoar com o conteúdo da aula? 
+https://sqlitebrowser.org/
 R: O DB Browser for SQLite se relaciona ao(s) ponto(s): 1, 4, 8, 9 e 12, pois ele é uma ferramenta que se pode utilizar para criar, editar e procurar SQLite databse files. Em todos esses pontos o SQLite pode ser utilizado ou ensinado para essa matéria.
 
-3. https://www.atlassian.com/br/git/tutorials/what-is-git, Como o Git pode se relacionoar com o conteúdo da aula? 
+3. Como o Git pode se relacionoar com o conteúdo da aula? 
+https://www.atlassian.com/br/git/tutorials/what-is-git 
 R: O Git se relaciona ao(s) pontos(s): 4 e 14, pois ele é usado como um controle de versão. 14- Como usamos o github, para poder mandar o código para o site do github. O git pode ser usado para transferir esses arquivos com uma maior facilidade e melhor controle nas versões, podendo ver quem modificou e o que modificou.
 
-4. https://docs.python.org/pt-br/dev/faq/general.html, Como o Python pode se relacionoar com o conteúdo da aula?
+4. Como o Python pode se relacionoar com o conteúdo da aula? 
+https://docs.python.org/pt-br/dev/faq/general.html 
 R: o Python se relaciona ao(s) pontos(s): 4, pois ele é uma linguagem básica de programação. 4- Ele hoje em dia, é uma das linguagens básicas da aprendizagem de linguagem de códigos
