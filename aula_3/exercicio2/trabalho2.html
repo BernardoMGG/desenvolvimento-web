@@ -1,0 +1,91 @@
+<!DOCTYPE html> 
+    <html lang="pt-br">
+        <head>
+            <title>Aula 3.2</title>
+            <meta charset="utf-8">
+        </head>
+        <body>
+            <h1 id="h1">H1</h1>
+            <h2>H2</h2>
+            <h3>H3</h3>
+            <h4>H4</h4>
+            <h5>H5</h5>
+            <h6>H6</h6>
+            <p>Este é um parágrafo!</p>
+            <hr>
+            <!-- Supostamente não era para aparecer nada aqui!-->
+            <p>Algumas listas:</p>
+            <ul>
+                <li>Numero 1 dessa lista</li>
+                <li>Numero 2 da mesma lista</li>
+                <li>Numero 3 desta lista</li>
+            </ul>
+            <ol>
+                <li>Primeiro Item de outra lista</li>
+                <li>Segundo Item da mesma lista</li>
+                <li>Terceiro Item desta mesma lista</li>
+            </ol>
+            <menu>
+                <li>Outra item em outra lista</li>
+                <li>Mais um item na mesma lista</li>
+                <li>Mais outro item na mesma lista</li>
+            </menu>
+            <hr>
+            <div>
+                <p><span>Esta texto esta dentro de um span, e abaixo tem dois links:</span></p>
+            </div>
+            <menu>
+                <li><a href="#h1">Este link leva para aqui mesmo.</li>
+                <li><a href="http://mangeli.com.br">Este link leva para o site do professor Mangeli.</a></li>
+            </menu>
+            <hr>
+            <p><del>Responda esse questionário a baixo: <br></del> 
+            <ins>Responda esse questionário abaixo: <br></ins>
+            <strong>!!!ATENÇÃO!!!<br></strong>
+            <em>Aqui está o formulário</em></p>
+            <p>Você está pronto?</p>
+            <button>Sim!</button> <button>Não</button>
+            <form id="form1" method="GET">
+                <p>De qualquer jeito, vamos começar! <br>
+                Qual o seu nome e sobrenome?</p>
+                
+                <input type="text1" id="input-name" required minlength="4" maxlength="30" size="30">
+                
+                <p>O que você faz da vida?</p>
+            
+                <input type="text2" id="input-oq-faz-da-vida" required minlength="4" maxlength="30" size="30">
+                <button type="submit">Enviar</button>
+            </form>
+
+            <form id="form2" method="POST">                
+                <p>Se você joga algum jogo, onde você joga?</p>
+                <select name="console" id="console-id-1">
+                    <option value="PC">PC</option>
+                    <option value="Playstation">Playstation</option>
+                    <option value="XBOX">XBOX</option>
+                    <option value="Nintendo Switch">Nintendo Switch</option>
+                    <option value="Não Jogo">Não Jogo</option>
+                </select>
+                
+                <p>Qual desses jogos é o melhor para você?</p>
+                <select name="jogos" id="jogo-id-2">
+                    <option value="LOL">LOL</option>
+                    <option value="DOTA 2">DOTA 2</option>
+                    <option value="CS2">CS2</option>
+                    <option value="The Last of Us 2">The Last of Us 2</option>
+                    <option value="God of War Ragnarok">God of War Ragnarok</option>
+                    <option value="FIFA">FIFA</option>
+                    <option value="Elden Ring">Elden Ring</option>
+                    <option value="DarkSouls">DarkSouls</option>
+                    <option value="Outro">Outro</option>
+                </select>
+                <button type="submit">Enviar</button>
+                <p> Deixe um comentário sobre esse formulário e sobre a página</p>
+                <textarea name="comentário" id="textarea1" cols="30" rows="10"></textarea>
+            </form>
+            <hr>
+            <video src="doguinho.mp4" controls></video>
+            <img src="controle.png">
+            <audio src="light-my-fire.mp3" controls></audio>        
+        </body>
+    </html>
