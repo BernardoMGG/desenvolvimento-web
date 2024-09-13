@@ -1,0 +1,65 @@
+h1, h2 { 
+    color : hotpink;
+    border : 1 px solid black ;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 2rem;
+}
+
+h2 {
+    font-style: italic;
+}
+
+div.cabecalho {
+    color: purple ;
+    font-size: 2em;
+    font-family: serif;
+    border-bottom: 10px dotted;
+}
+
+p, li, a, div {
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;;
+}
+
+div.primeiradiv {
+    color: black;
+    background-color: lightblue;
+    width: 10%;
+    height: 5%;
+}
+
+div.segundadiv {
+    color: black;
+    background-color: lightblue;
+    width: 500px;
+    height: 300px;
+}
+
+span {
+    font-weight: bold;
+}
+
+p.pdadiv {
+    color: red;
+}
+
+p {
+    color : blue;
+}
+
+a {
+    color: initial; 
+    text-decoration: none; 
+}
+  
+  a:hover {
+    color: green; 
+}
+
+ul {
+    background-color: #eeeeee; 
+    border: 5px solid purple;  
+    padding: 15px;             
+    list-style-type: none;
+}

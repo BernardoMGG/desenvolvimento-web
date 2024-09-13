@@ -1,0 +1,48 @@
+
+h1, h2, h3, h4, h5, h6 { 
+    color : red;
+    border : 1 px solid black ;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 2rem;
+}
+
+p, li, a, div {
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;;
+}
+
+div.primeiradiv {
+    width: 10%;
+    height: 5%;
+}
+
+div.segundadiv {
+    width: 500px;
+    height: 300px;
+}
+
+span {
+    font-weight: bold;
+}
+
+p.pdadiv {
+    color: red;
+}
+
+p {
+    color : blue;
+}
+
+li {
+    color: green;
+}
+
+a {
+    color: magenta;
+}
+
+div {
+    color: black;
+    background-color: lightblue;
+}
