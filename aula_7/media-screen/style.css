@@ -1,0 +1,33 @@
+#primeira-div {
+    width: 80%;
+    margin: 0 auto;
+    height: 50vh;
+    background-color: brown;
+}
+
+
+@media screen and (min-width: 360px){
+    #primeira-div{
+        background-color: blue;
+        height: 20vh;
+    }  
+}
+
+@media screen and (min-width: 992px){
+    #primeira-div{
+        background-color: yellow;
+    }
+    #segunda-div {
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+        height: 3rem;
+        background-color: red;
+    }        
+}
+
+@media screen and (min-width: 1440px){
+    #primeira-div{
+        background-color: green;
+    }
+}
